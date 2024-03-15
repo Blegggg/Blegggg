@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Blegggg
-- 👀 I’m interested in web design
 - 🌱 I’m currently learning digital production and design
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me michaelfortune491@gmail.com
