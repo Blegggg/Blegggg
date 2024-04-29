@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **michaelfortune491@gmail.com**
 
-- ⚡ Fun fact **I forgot**
+- ⚡ Fun fact ..... **I forgor 💀**
 
 
 
