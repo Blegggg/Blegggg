@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Student From Middlesbrough College</h3>
 
-- 🔭 I’m currently working on [Hotel](https://github.com/Blegggg/Hotel)
+- 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **A Course On Digital Production And Design**
-
-- 👯 I’m looking to collaborate on **Nothing**
-
-- 🤝 I’m looking for help with **Nothing**
+- 🌱 I’m currently learning **T Level Course On Digital Production And Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blegggg](https://github.com/Blegggg)
 
 - 📫 How to reach me **michaelfortune491@gmail.com**
 
-- ⚡ Fun fact ..... **I forgor 💀**
+- ⚡ Fun fact ..... **I edited this last 11 months ago**
 
 
 
