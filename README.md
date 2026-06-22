@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A Student From Middlesbrough College</h3>
+<h3 align="center">A former Student From Middlesbrough College</h3>
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on Lua
 
 - 🌱 I’m currently learning **T Level Course On Digital Production And Design**
 
